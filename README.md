@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://reliable-manatee-612119.netlify.app/">
+    <a href="https://https://reliable-manatee-612119.netlify.app">
       Demo
     </a>
     <span> | </span>
