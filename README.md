@@ -38,7 +38,7 @@
 
 ![screenshot](./images/largescreenshot.png) 
 ## mobile view
-(./images/mobileshot.png)
+![screenshot](./images/mobileshot.png)
 
 
   <a> https://reliable-manatee-612119.netlify.app/</a> is web design clone from devChallenge.io , it was a very exciting project cause i have not done anything like this before , so during the project i was able to learn css writing mode and improve my grid styling. if you have any suggestion you can contact me (contact information is at bottom)
