@@ -36,9 +36,7 @@
 
 ## Overview
 
-![screenshot]
-## pc view
-(./images/largescreenshot.png) 
+![screenshot](./images/largescreenshot.png) 
 ## mobile view
 (./images/mobileshot.png)
 
